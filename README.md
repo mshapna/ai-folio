@@ -1,4 +1,4 @@
-## Shapna's IoT projects in data science, machine learning and AI
+## Selected IoT projects in data science, machine learning and AI
 
 Based on a Minimal Jekyll theme for GitHub Pages [1].
 
