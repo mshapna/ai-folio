@@ -2,12 +2,12 @@
 
 ---
 
-### Deep NLP for hate speech detection
+### Predicting Concrete Compressive Strength using Sensor Data applying ML Algorithms
 
-Hate speech detection is the automated task of determining whether a piece of text contains hateful content. In this project, I built a classifier using PyTorch to fine-tune a BERT model.
+Compressive strength determines the quality of concrete. To predict the compressive strength of concrete currently destructive methods are used, which are time consuming and not precise. To enable reliable prediction IoT sensors are used to monitor the concrete and ML algorithms are used to predict the compressive strength of concrete.
 
-[![](https://img.shields.io/badge/Python-white?logo=Python)](#) [![](https://img.shields.io/badge/Jupyter-white?logo=Jupyter)](#) [![](https://img.shields.io/badge/PyTorch-white?logo=pytorch)](#) [![](https://img.shields.io/badge/Twitter-white?logo=Twitter)](#) [![](https://img.shields.io/badge/HuggingFace_Transformers-white?logo=huggingface)](#)
+[![](https://img.shields.io/badge/Python-white?logo=Python)](#) [![](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252)](#) [![](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)](#)
 
-[View code on Colab](https://colab.research.google.com/drive/1d_q0vUpgwmbN7imUcdsbuDwJ61OuBjvO?usp=sharing)
+[View code on Colab](https://colab.research.google.com/drive/1bYpsHv6ZDv89vJAqbPVYPdBf1iXHvhM9#scrollTo=PR6hoH61tFNg)
 
 ---
