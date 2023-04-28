@@ -2,7 +2,7 @@
 
 ---
 
-### Predicting Concrete Compressive Strength using Sensor Data applying ML Algorithms
+### Predicting Concrete Compressive Strength using Sensor Data and applying ML Algorithms
 
 Compressive strength determines the quality of concrete. To predict the compressive strength of concrete currently destructive methods are used, which are time consuming and not precise. To enable reliable prediction IoT sensors are used to monitor the concrete and ML algorithms are used to predict the compressive strength of concrete.
 
