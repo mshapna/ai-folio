@@ -11,3 +11,4 @@ Compressive strength determines the quality of concrete. To predict the compress
 [View code on Colab](https://colab.research.google.com/drive/1bYpsHv6ZDv89vJAqbPVYPdBf1iXHvhM9#scrollTo=PR6hoH61tFNg)
 
 ---
+![image](https://user-images.githubusercontent.com/40976530/235100518-a23faa17-7551-4382-8a94-0cd3430a60ff.png)
