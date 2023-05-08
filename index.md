@@ -13,7 +13,7 @@ Compressive strength determines the quality of concrete. To predict the compress
 ---
 ![image](https://user-images.githubusercontent.com/40976530/235100518-a23faa17-7551-4382-8a94-0cd3430a60ff.png)
 
-### A Complete Multi-classClassification Algorithm using Customer Segmentation
+### A Complete Multi-classClassification Algorithm for Customer Segmentation
 
 Classification jobs with more than two class or types of labels are classified as multi-class classification. Multiclass classification in machine learning, is different from binary classification since involves many classes or labels. There are many ML Algorithms to perform this task. In this scenario we verify all the classification algorithms to find out the best solution for the customer segmentation problem.
 
