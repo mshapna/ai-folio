@@ -21,4 +21,4 @@ Classification jobs with more than two class or types of labels are classified a
 
 [View code on Colab](https://colab.research.google.com/drive/1W8dy3bIdIS8BbWfsMM9NtPln7kU8j3zq#scrollTo=WBO43Oi4Kgw9)
 
-<img src="images/london2.png?raw=true"/>
+<img src="images/cmap.png?raw=true"/>
