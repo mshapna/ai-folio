@@ -17,7 +17,7 @@ Compressive strength determines the quality of concrete. To predict the compress
 
 Classification jobs with more than two class or types of labels are classified as multi-class classification. Multiclass classification in machine learning, is different from binary classification since involves many classes or labels. There are many ML Algorithms to perform this task. In this scenario we verify all the classification algorithms to find out the best solution for the customer segmentation problem.
 
-[![](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)](#) [![](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252)](#) [![](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)](#) [![](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)](#) [![]Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)](#)
+[![](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)](#) [![](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252)](#) [![](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)](#) [![](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)](#)  [![](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)](#)
 
 [View code on Colab](https://colab.research.google.com/drive/1W8dy3bIdIS8BbWfsMM9NtPln7kU8j3zq#scrollTo=WBO43Oi4Kgw9)
 
