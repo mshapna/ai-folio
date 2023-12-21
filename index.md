@@ -23,4 +23,5 @@ Classification jobs with more than two class or types of labels are classified a
 
 <img src="images/cmap.png?raw=true"/>
 
-### Air Quality Index (AQI) prediction via LSTM with visualizations
+### Basic regression: Predict fuel efficiency using Tensorflow
+
