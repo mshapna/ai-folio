@@ -26,4 +26,4 @@ Classification jobs with more than two class or types of labels are classified a
 ### Exploratory Data Analysis (EDA) for Time-Series Data
 
 Preparing a a time-series dataset from a temperature and humidity IoT sensor for Exploratory Data Analysis (EDA). This can help in Analyzing the data and proceed in implementing any data preparation from scratch for Deep Neural Networks. 
-
+[![](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)](#) [![](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252)](#) [![](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)](#)  [![](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)](#)
