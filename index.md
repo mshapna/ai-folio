@@ -31,4 +31,4 @@ Preparing a a time-series dataset from a temperature and humidity IoT sensor for
 
 [View code on Colab](https://colab.research.google.com/drive/1xx8ndtxqY2tD1ODyeZjIMwvO8AVAyOaB#scrollTo=x1ZIo4YXb5Ir)
 
-<img src="images/cmap.png?raw=true"/>
+<img src="images/temp.png?raw=true"/>
