@@ -23,5 +23,7 @@ Classification jobs with more than two class or types of labels are classified a
 
 <img src="images/cmap.png?raw=true"/>
 
-### Basic regression: Predict fuel efficiency using Tensorflow
+### Exploratory Data Analysis (EDA) for Time-Series Data
+
+Preparing a a time-series dataset from a temperature and humidity IoT sensor for Exploratory Data Analysis (EDA). This can help in Analyzing the data and proceed in implementing any data preparation from scratch for Deep Neural Networks. 
 
