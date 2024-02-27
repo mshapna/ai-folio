@@ -30,3 +30,5 @@ Preparing a a time-series dataset from a temperature and humidity IoT sensor for
 [![](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)](#) [![](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252)](#) [![](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)](#)  [![](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)](#)
 
 [View code on Colab](https://colab.research.google.com/drive/1xx8ndtxqY2tD1ODyeZjIMwvO8AVAyOaB#scrollTo=x1ZIo4YXb5Ir)
+
+<img src="images/cmap.png?raw=true"/>
